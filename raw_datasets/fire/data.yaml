@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['fire']
+
+roboflow:
+  workspace: fire-detection-oyr4a
+  project: fire-detection-g9ebb
+  version: 10
+  license: Public Domain
+  url: https://universe.roboflow.com/fire-detection-oyr4a/fire-detection-g9ebb/dataset/10

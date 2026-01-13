@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 8
+names: ['AGV', 'box', 'package', 'person', 'safehat', 'stool', 'table', 'toolkit']
+
+roboflow:
+  workspace: project-xjlpp
+  project: obstacle-detection-c2lj6
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/project-xjlpp/obstacle-detection-c2lj6/dataset/2

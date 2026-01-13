@@ -1,0 +1,41 @@
+2026-01-12 00:06:25 | EVENT: Autonomous mode started
+2026-01-12 00:09:20 | EVENT: Autonomous mode started
+2026-01-12 00:18:12 | EVENT: Autonomous mode started (Vision-only extinguishing)
+2026-01-12 00:19:08 | EVENT: Fire reached at 23.1 cm — activating pump
+2026-01-12 00:19:15 | FLOW_PULSES: 0
+2026-01-12 00:19:15 | EVENT: Fire extinguished successfully
+2026-01-12 00:19:28 | EVENT: Fire reached at 22.7 cm — activating pump
+2026-01-12 00:19:34 | FLOW_PULSES: 2
+2026-01-12 00:19:34 | EVENT: Fire extinguished successfully
+2026-01-12 00:23:07 | EVENT: Autonomous mode started (Vision-only, single-socket)
+2026-01-12 00:23:09 | EVENT: Fire reached at 11.0 cm — activating pump
+2026-01-12 00:23:10 | FLOW_PULSES: 0
+2026-01-12 00:23:10 | EVENT: Fire extinguished successfully
+2026-01-12 00:24:24 | EVENT: Autonomous mode started (Vision-only, single-socket)
+2026-01-12 00:24:31 | EVENT: Fire reached at 15.6 cm — activating pump
+2026-01-12 00:24:31 | FLOW_PULSES: 0
+2026-01-12 00:24:31 | EVENT: Fire extinguished successfully
+2026-01-12 00:24:33 | EVENT: Fire reached at 15.0 cm — activating pump
+2026-01-12 00:24:33 | FLOW_PULSES: 0
+2026-01-12 00:24:33 | EVENT: Fire extinguished successfully
+2026-01-12 00:24:35 | EVENT: Fire reached at 16.3 cm — activating pump
+2026-01-12 00:24:35 | FLOW_PULSES: 0
+2026-01-12 00:24:35 | EVENT: Fire extinguished successfully
+2026-01-12 00:27:16 | EVENT: System shutdown
+2026-01-12 00:28:10 | EVENT: Autonomous mode started (Vision-only, filtered)
+2026-01-12 00:29:23 | EVENT: Fire confirmed at 20.2 cm — activating pump
+2026-01-12 00:29:26 | FLOW_PULSES: 0
+2026-01-12 00:29:26 | EVENT: Fire extinguishing cycle completed
+2026-01-12 00:59:40 | EVENT: Autonomous mode started (Vision-only arrival logic)
+2026-01-12 01:02:54 | EVENT: Autonomous mode started (Vision-only arrival logic)
+2026-01-12 01:05:33 | EVENT: Autonomous mode started (Vision-only arrival logic)
+2026-01-12 01:07:00 | EVENT: Autonomous mode started (Vision-only arrival logic)
+2026-01-12 01:07:02 | EVENT: Fire reached — activating pump (px=157)
+2026-01-12 01:07:02 | FLOW_PULSES: 0
+2026-01-12 01:07:02 | EVENT: Fire extinguished successfully
+2026-01-12 01:07:33 | EVENT: Fire reached — activating pump (px=107)
+2026-01-12 01:07:34 | FLOW_PULSES: 0
+2026-01-12 01:07:34 | EVENT: Fire extinguished successfully
+2026-01-12 01:07:36 | EVENT: Fire reached — activating pump (px=188)
+2026-01-12 01:07:37 | FLOW_PULSES: 0
+2026-01-12 01:07:37 | EVENT: Fire extinguished successfully
