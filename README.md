@@ -141,30 +141,6 @@ This method is:
 - Intended for testing and safety
 
 ---
-
-## 📁 Project Structure
-
-Autonomous-Firefighting-Rover/
-│
-├── modules/
-│ ├── vision_ai.py
-│ ├── rover_movement.py
-│ ├── pump_control.py
-│ ├── flow_logger.py
-│ └── commander.py
-│
-├── esp32_firmware/
-│ └── esp32_rover.ino
-│
-├── logs/
-│ └── water_usage_log.txt
-│
-├── runs/
-│ └── detect/
-│ └── fire_model3/
-│
-└── README.md
-
 ## 👨‍💻 Author
 
 Faizan Ahmed
